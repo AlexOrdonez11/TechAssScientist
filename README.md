@@ -5,7 +5,8 @@ The document highlights the data preprocessing steps, model building, evaluation
 
 Feel free to take a look at the code in the Analysis.ipynb file
 
-Resulting in the followint measures
+Resulting in the following measures:
+
 
 LSTM Model:
 
