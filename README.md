@@ -9,6 +9,7 @@ Resulting in the followint measures
 
 LSTM Model:
 
+
 Train Mean Squared Error (MSE): 1362.2510
 
 Train Root Mean Squared Error (RMSE): 36.9087
@@ -21,7 +22,11 @@ Test Root Mean Squared Error (RMSE): 36.9087
 
 Test Mean Absolute Error (MAE): 24.5857
 
+
+
 Random Forest:
+
+
 
 Random Forest Train MSE: 178.4549
 
@@ -35,7 +40,10 @@ Random Forest Test RMSE: 50.4842
 
 Random Forest Test MAE: 7.8328
 
+
+
 Stacked Model (RF & LSTM combined) Linear Regression:
+
 
 
 Stacked Model Train MSE: 11.9690
@@ -50,7 +58,11 @@ Stacked Model Test RMSE: 71.9539
 
 Stacked Model Test MAE: 16.2126
 
+
+
 Stacked Model (RF & LSTM combined) Random Forest:
+
+
 
 Stacked Model Train MSE: 94.3645
 
